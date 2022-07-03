@@ -1,0 +1,140 @@
+@media (max-width: 700px) {
+  .container {
+    text-align: center;
+    display: block;
+  }
+}
+
+body {
+  background-color: rgb(156, 225, 252);
+  color: rgb(26, 0, 0);
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.container {
+  max-width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.card {
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 10px;
+  font-weight: 300;
+  margin: 25px;
+  word-spacing: 20px;
+}
+
+.photo {
+  width: 600px;
+  border-radius: 50px;
+  box-shadow: 10px 10px 100px rgb(3, 3, 3);
+}
+
+.infoAboutMe {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  padding-left: 30px;
+}
+
+.me {
+  word-spacing: 3px;
+}
+
+.title {
+  text-align: center;
+  border-radius: 50px;
+  background-color: rgb(248, 170, 244);
+  /* padding: 10px 10px; */
+}
+
+.myTarget {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.myTarget li {
+  padding: 2px;
+}
+
+.workTable1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.PS {
+  text-align: center;
+}
+
+.workTable2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.social {
+  padding-top: 40px;
+  margin: auto;
+  font-size: 25px;
+}
+
+.social img {
+  padding-left: 50px;
+  padding-right: 5px;
+  width: 60px;
+}
+
+.workTable3 {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+.workTable3 td {
+  border-collapse: initial;
+  border-bottom: 2px solid #ccc;
+  color: solid #fc79f1;
+  padding: 9px 8px;
+  transition: 0.3s linear;
+  text-align: center;
+}
+
+.all {
+  padding-top: 50px;
+  text-align: center;
+  font-size: 10px;
+}
+
+.Vladilen {
+  position: fixed;
+  left: 20px;
+  right: 75%;
+  bottom: 0;
+  display: flex;
+  width: 400px;
+}
+
+.Облако {
+  position: fixed;
+  left: 250px;
+  right: 75%;
+  bottom: 150px;
+  display: flex;
+  width: 200px;
+}
